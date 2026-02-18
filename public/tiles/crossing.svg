@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 90" width="90" height="90">
+  <!-- Kreuzung: Top ↔ Bottom + Left ↔ Right (unverbunden) -->
+  <line x1="45" y1="0" x2="45" y2="90" stroke="#444" stroke-width="6" stroke-linecap="round"/>
+  <line x1="0" y1="45" x2="90" y2="45" stroke="#444" stroke-width="6" stroke-linecap="round"/>
+</svg>
